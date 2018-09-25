@@ -23,4 +23,4 @@ Final data sets:
 
 ### Results
 
-![alt text](https://github.com/agoscinski/EnsembleMethodsForFeatureSelection/blob/master/doc/poster.png "Poster")
+![](https://github.com/agoscinski/EnsembleMethodsForFeatureSelection/blob/master/docs/poster.svg "Poster")
