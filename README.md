@@ -1,4 +1,4 @@
-# NeuralNetworksProject
+# Ensemble methods for feature selection
 
 ### Requirements
 
@@ -20,3 +20,7 @@ Final data sets:
 * Dexter: 20000x2600 (Bag of Word) http://archive.ics.uci.edu/ml/datasets/Dexter
 * Dorothea: 100000x1950 (Gene expression) http://archive.ics.uci.edu/ml/datasets/Dorothea
 * PEMS:  138672 x 440 http://archive.ics.uci.edu/ml/datasets/PEMS-SF
+
+### Results
+
+![alt text](https://github.com/agoscinski/EnsembleMethodsForFeatureSelection/blob/master/doc/poster.png "Poster")
